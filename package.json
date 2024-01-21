@@ -1,0 +1,40 @@
+{
+  "name": "cyber-encrypt",
+  "version": "1.0.0",
+  "description": "cyber-encrypt is a TypeScript library that provides functions for encrypting and decrypting JSON data using the PBKDF2 algorithm and AES encryption. It aims to provide a secure and straightforward way to handle sensitive information.",
+  "main": "src/index.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ala-garbaa-pro/cyber-encrypt.git"
+  },
+  "keywords": [
+    "encryption",
+    "security",
+    "crypto",
+    "cybersecurity",
+    "typescript",
+    "json",
+    "aes",
+    "pbkdf2",
+    "data protection",
+    "privacy",
+    "secure communication",
+    "cryptography",
+    "cyber-encrypt"
+  ],
+  "author": "Ala GARBAA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ala-garbaa-pro/cyber-encrypt/issues"
+  },
+  "homepage": "https://github.com/ala-garbaa-pro/cyber-encrypt#readme",
+  "dependencies": {
+    "crypto-js": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/crypto-js": "^4.2.1"
+  }
+}
