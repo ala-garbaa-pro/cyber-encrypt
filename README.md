@@ -2,6 +2,9 @@
 
 cyber-encrypt is a TypeScript library that provides functions for encrypting and decrypting JSON data using the PBKDF2 algorithm and AES encryption. It aims to provide a secure and straightforward way to handle sensitive information.
 
+
+![Cyber-Encrypt](https://github.com/ala-garbaa-pro/cyber-encrypt/assets/79337368/3101afa3-4356-4089-a8b8-33235d73ec99)
+
 #### Installation
 
 ```bash
